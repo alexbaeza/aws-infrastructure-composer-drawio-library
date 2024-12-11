@@ -42,10 +42,10 @@ Use the links below to directly load the libraries into Draw.io:
 
 ### 2. **Manual Installation**
 
-1. Download the XML library files in this repo.
+1. Download the .drawio library files in this repo.
 2. Open Draw.io.
 3. Go to **File > Open Library from > Device**.
-4. Select the downloaded `.xml` file.
+4. Select the downloaded `.drawio` file.
 
 ---
 
